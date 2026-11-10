@@ -1,0 +1,550 @@
+{
+  "retained_files": [
+    {
+      "source": "captures\\20261109_200401_retry\\0010_rgb.jpg",
+      "destination": "data\\fixtures\\catheter_static\\0010_rgb.jpg",
+      "sha256": "04aa98012285120edc9f76ac777a8edf19a423daa7ee66dc65cfbe60b1511a79"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0010_ir.png",
+      "destination": "data\\fixtures\\catheter_static\\0010_ir.png",
+      "sha256": "b89b62878907f6c1f57b7ef43b07b8691b1b966e4b5a02c36ebfec9ecad2b1db"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0010_depth.png",
+      "destination": "data\\fixtures\\catheter_static\\0010_depth.png",
+      "sha256": "c6e5784b2de368d4fe72a239c4a4e8137c4225f7f7de7aa92181a3458a4e29f6"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0010_d2c.png",
+      "destination": "data\\fixtures\\catheter_static\\0010_d2c.png",
+      "sha256": "fc473cb17597a4231029fa7eb9497efcfca60900f672a27c1219f396ac2891c6"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0011_rgb.jpg",
+      "destination": "data\\fixtures\\catheter_static\\0011_rgb.jpg",
+      "sha256": "3bb5a5045e8c7ddf3e7076088c51b8b22f7f611e8c9bb79e1796cd1dfe38ab0e"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0011_ir.png",
+      "destination": "data\\fixtures\\catheter_static\\0011_ir.png",
+      "sha256": "540b70764068c1405e9b041e34887143e1a2ba19cc8219bfa65fb7ef517a5bdc"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0011_depth.png",
+      "destination": "data\\fixtures\\catheter_static\\0011_depth.png",
+      "sha256": "dff6a23e22064cea00e0a6c6339c9d86ed1c18fcaa1c22ea9d62dda322f71c9e"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0011_d2c.png",
+      "destination": "data\\fixtures\\catheter_static\\0011_d2c.png",
+      "sha256": "c341c9affd02069ac74769bfa1bf1caccd1367629afc9f5d7fccf283e1607ebb"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0020_rgb.jpg",
+      "destination": "data\\fixtures\\catheter_static\\0020_rgb.jpg",
+      "sha256": "e4ce55099886fc065759fff8e8bee9c580edc0ece451a33f5240af9523ada3fa"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0020_ir.png",
+      "destination": "data\\fixtures\\catheter_static\\0020_ir.png",
+      "sha256": "9e5ac6496be264c3b5dc48306b9ed8bf636c623ba05ea9cc1c7c52ec4edbd4ca"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0020_depth.png",
+      "destination": "data\\fixtures\\catheter_static\\0020_depth.png",
+      "sha256": "9ba42a89b918f06268441357ffc7e817b5e06e0acdc23dfe15d560cd45910d40"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0020_d2c.png",
+      "destination": "data\\fixtures\\catheter_static\\0020_d2c.png",
+      "sha256": "1159040f1ab320901c53652f709e59b3e6da1e522de23001820b89bbba8680eb"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0021_rgb.jpg",
+      "destination": "data\\fixtures\\catheter_static\\0021_rgb.jpg",
+      "sha256": "3d7a0f142b8e12113586b81f3b0f530ba0c61e8a9ca3efd71a1cd4e2a07b8110"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0021_ir.png",
+      "destination": "data\\fixtures\\catheter_static\\0021_ir.png",
+      "sha256": "abac15e3be1bbfcda090720b1df4ee775174ed460176e725271683454a6ea414"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0021_depth.png",
+      "destination": "data\\fixtures\\catheter_static\\0021_depth.png",
+      "sha256": "6cf387782c4631bc1090612a232b402ecf464e4e8aa4bd29b0c7e07ec3cb7906"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0021_d2c.png",
+      "destination": "data\\fixtures\\catheter_static\\0021_d2c.png",
+      "sha256": "666218f2040786b7bf1005ea9be80593c999e095edc086904d62741e4968375b"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0050_rgb.jpg",
+      "destination": "data\\fixtures\\catheter_static\\0050_rgb.jpg",
+      "sha256": "ab955ecf78fce546f31c3afe3fcd7fa0bcb68f61c8aff82153d252d32c23d240"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0050_ir.png",
+      "destination": "data\\fixtures\\catheter_static\\0050_ir.png",
+      "sha256": "dc48311f9edd5bb3684dd60f2df6fa3b2f533655ce156abace249b8b0fdda26c"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0050_depth.png",
+      "destination": "data\\fixtures\\catheter_static\\0050_depth.png",
+      "sha256": "6495963b405faf248c17c9b98d16dacecb8b20e91d76b478e1a4946c335f4933"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0050_d2c.png",
+      "destination": "data\\fixtures\\catheter_static\\0050_d2c.png",
+      "sha256": "99677739ff5f6bb8f9ac44cb9679acc21e7764c6a4b30d150ec3ba605e2e259f"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0051_rgb.jpg",
+      "destination": "data\\fixtures\\catheter_static\\0051_rgb.jpg",
+      "sha256": "8892eb8d9000fb26fdc7b0a05cc277fca003cb3e273cb2049916765b986e43db"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0051_ir.png",
+      "destination": "data\\fixtures\\catheter_static\\0051_ir.png",
+      "sha256": "b20ed9f88d5c4fc80ef76def6598516238e3bb334c2bab5479d984428a3329b5"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0051_depth.png",
+      "destination": "data\\fixtures\\catheter_static\\0051_depth.png",
+      "sha256": "280f9ad217abd5ee7112f7c09039c78deeec89a7ac8a83480123a174b232ad1b"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0051_d2c.png",
+      "destination": "data\\fixtures\\catheter_static\\0051_d2c.png",
+      "sha256": "cfad8f4969190686022e091e1375651883009d10b945080abd776bd82ad3fae2"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0080_rgb.jpg",
+      "destination": "data\\fixtures\\catheter_static\\0080_rgb.jpg",
+      "sha256": "7b7afe63eb1eda721e351195e3f85ee1feaa46b6fc48eeea6ef10e477379e4c2"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0080_ir.png",
+      "destination": "data\\fixtures\\catheter_static\\0080_ir.png",
+      "sha256": "2b8a6cc239f2f734144dfebd65e6b037b8a7726fffb1485ed10392a44d31a65d"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0080_depth.png",
+      "destination": "data\\fixtures\\catheter_static\\0080_depth.png",
+      "sha256": "0c7122c121f64265303574e0da898817e1fe878cd8cc68eca4544bea0d4569e9"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0080_d2c.png",
+      "destination": "data\\fixtures\\catheter_static\\0080_d2c.png",
+      "sha256": "e6fef377ec5d087b5458a97635efa4573fb7871275919a9424d3201bbf4ee7fe"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0081_rgb.jpg",
+      "destination": "data\\fixtures\\catheter_static\\0081_rgb.jpg",
+      "sha256": "e91a074a8636a71c938160a0090bcc55dedcb91242e3eeaf6d64fc78b9c18700"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0081_ir.png",
+      "destination": "data\\fixtures\\catheter_static\\0081_ir.png",
+      "sha256": "68a709e5b26142324a4715c50404f7df9bf3bc27057d1c98123e6dcdb55a16a0"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0081_depth.png",
+      "destination": "data\\fixtures\\catheter_static\\0081_depth.png",
+      "sha256": "cf6c66982d9e5891e271fef6ee3eb2de8199d1d62de94356006ce7697da4efef"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0081_d2c.png",
+      "destination": "data\\fixtures\\catheter_static\\0081_d2c.png",
+      "sha256": "fd28bf044e19ac89b2acce8a4c1d9954cbae13a5707b3f626c4366f1a5b2ee4a"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0100_rgb.jpg",
+      "destination": "data\\fixtures\\catheter_static\\0100_rgb.jpg",
+      "sha256": "346f6caf153abff58e19dfb4a42b36dc08f25a467be3fa23088c763691040352"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0100_ir.png",
+      "destination": "data\\fixtures\\catheter_static\\0100_ir.png",
+      "sha256": "275f927bae2f99c72d7407b33e68d287867327162d0f695e4fd0d4f2444d141f"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0100_depth.png",
+      "destination": "data\\fixtures\\catheter_static\\0100_depth.png",
+      "sha256": "7a93ce267c84d308631fe449498c9ed27ee7239c2dd36e112346d8d24bf2c116"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0100_d2c.png",
+      "destination": "data\\fixtures\\catheter_static\\0100_d2c.png",
+      "sha256": "4217e02942cfba285d685a2d2cb8b78b53502337a6ddf0f56379b5ac09402a92"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0101_rgb.jpg",
+      "destination": "data\\fixtures\\catheter_static\\0101_rgb.jpg",
+      "sha256": "5d3a514c3def1eab039b115c507730d856368f4f8f3b3c0303180fb1519335ff"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0101_ir.png",
+      "destination": "data\\fixtures\\catheter_static\\0101_ir.png",
+      "sha256": "5ca0d898e094c3f5e9a7f28ec50d7307315a4b62686abe97f04c6d2f8878bf68"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0101_depth.png",
+      "destination": "data\\fixtures\\catheter_static\\0101_depth.png",
+      "sha256": "11793e72a151cbf1cdc8248f7d0cc94b1fdbce111a6646a00c66cbb1da6efe18"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0101_d2c.png",
+      "destination": "data\\fixtures\\catheter_static\\0101_d2c.png",
+      "sha256": "a5c0040c117ab4aa3cd38b059c137a4af9dfe5cff5f23a169491a9f2531d227a"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0120_rgb.jpg",
+      "destination": "data\\fixtures\\catheter_static\\0120_rgb.jpg",
+      "sha256": "c2dce37b886b03595ab10295635590d1c43f05ec324a3a7f46dac989ef7cd4a6"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0120_ir.png",
+      "destination": "data\\fixtures\\catheter_static\\0120_ir.png",
+      "sha256": "15b53c8ed29b403a1a3d8498289aec6b57b95536969a22cbbab934f595be151f"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0120_depth.png",
+      "destination": "data\\fixtures\\catheter_static\\0120_depth.png",
+      "sha256": "34a7d2c8cd1e220ab31b700611cb27d196e2976fa32af74f1baa9173342f2a97"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0120_d2c.png",
+      "destination": "data\\fixtures\\catheter_static\\0120_d2c.png",
+      "sha256": "500e6b26c7d2417a74204866fe1c38ca17b52f3fd3cd5077ab4c074e7899b515"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0121_rgb.jpg",
+      "destination": "data\\fixtures\\catheter_static\\0121_rgb.jpg",
+      "sha256": "6949f5a68dc85ffbf0059692fb2552f849b1f7197199b230096e1c8fba8bf83a"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0121_ir.png",
+      "destination": "data\\fixtures\\catheter_static\\0121_ir.png",
+      "sha256": "d2a21d308810f5012d43e7e722dda943345db41e215e2a8844422793b78155c4"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0121_depth.png",
+      "destination": "data\\fixtures\\catheter_static\\0121_depth.png",
+      "sha256": "aaad0f2478b1b1b6b586146e6a07f9903fd1b3318f1dc9fafb37b409a7cbdaa2"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0121_d2c.png",
+      "destination": "data\\fixtures\\catheter_static\\0121_d2c.png",
+      "sha256": "af2a65bd1f700a305a129ee75187edfaa3a38766d5b5b3937dc81445e0d45aaf"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0140_rgb.jpg",
+      "destination": "data\\fixtures\\catheter_static\\0140_rgb.jpg",
+      "sha256": "45c45eff5ea7283b57d7bc22f72d9a3b2721e8e05786dccd862521feccdaca9b"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0140_ir.png",
+      "destination": "data\\fixtures\\catheter_static\\0140_ir.png",
+      "sha256": "6cc41ebed374b7bcf68800cefbf6580e317acd90b0b2c239e68d9ab666622b3b"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0140_depth.png",
+      "destination": "data\\fixtures\\catheter_static\\0140_depth.png",
+      "sha256": "df6a82c18cc491128b0cb38442bb5237cd4b7da03fac3a6f89ee41acd59e5980"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0140_d2c.png",
+      "destination": "data\\fixtures\\catheter_static\\0140_d2c.png",
+      "sha256": "7598e3c86cf1a745d2c29ac31e4ad7c8ef4d2fae0dea0308e819f7c77b952c3c"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0141_rgb.jpg",
+      "destination": "data\\fixtures\\catheter_static\\0141_rgb.jpg",
+      "sha256": "8199e1356e962c11ac2d78fda72d056fad7a7f59a7fef88977e94663a4d225bd"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0141_ir.png",
+      "destination": "data\\fixtures\\catheter_static\\0141_ir.png",
+      "sha256": "3a4d4632e40789750d8d68ad50256dc12f34004ab5602df4d6af0ecb9ba8128e"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0141_depth.png",
+      "destination": "data\\fixtures\\catheter_static\\0141_depth.png",
+      "sha256": "0700f44e59191ea246720fb09edb7fb933519c0d15ebc43d4300dee621644682"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\0141_d2c.png",
+      "destination": "data\\fixtures\\catheter_static\\0141_d2c.png",
+      "sha256": "f28db3c7b1fcf012168cdb2c7839179f4545f46ca277a4883eb1eafe8f10a42b"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\metadata.json",
+      "destination": "data\\fixtures\\catheter_static\\metadata.json",
+      "sha256": "1469afdba15b630ad1bbed395fecd472017ae73edd6051d985fa57bd36ddf3ba",
+      "transformation": "Retained selected frame metadata only; calibration unchanged"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\triangulation\\manual_points.json",
+      "destination": "data\\fixtures\\catheter_static\\triangulation\\manual_points.json",
+      "sha256": "bf19c152acdbf250030b6101e56cb07647bf846abb667e7ba3d1556039e3b0e6"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\triangulation\\profile_calibration_check.json",
+      "destination": "data\\fixtures\\catheter_static\\triangulation\\profile_calibration_check.json",
+      "sha256": "65bb6fc22a12e1dd8b731a8da63fedab0fe95da8eeb37ea5c3b6f3561f45968e"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\triangulation\\result.json",
+      "destination": "data\\fixtures\\catheter_static\\triangulation\\result.json",
+      "sha256": "db0836c27a3dd338d005bb03b2f7d0170add8fc00f3660e80442068450b9b095"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\triangulation\\points_3d.csv",
+      "destination": "data\\fixtures\\catheter_static\\triangulation\\points_3d.csv",
+      "sha256": "fffbf8d6c38deb0c04346ab0a0bc5d022284731d570f3afc14067644bd616f4e"
+    },
+    {
+      "source": "captures\\20261109_200401_retry\\triangulation\\pair.json",
+      "destination": "data\\fixtures\\catheter_static\\triangulation\\pair.json",
+      "sha256": "644ede3dea3700916588786c4a5cb3665e86a16065f37dfbc654cf114b7e9e03"
+    },
+    {
+      "source": "captures\\live_validation_20261109_final\\metadata.json",
+      "destination": "data\\fixtures\\catheter_live\\metadata.json",
+      "sha256": "7fa7297ad2371823093997380f71a58018ae92aaf54cbd5bb985afa0f5d10dc9"
+    },
+    {
+      "source": "captures\\live_validation_20261109_final\\first_result\\rgb.jpg",
+      "destination": "data\\fixtures\\catheter_live\\first_result\\rgb.jpg",
+      "sha256": "909d65ca3716c10211a7132ea95d39f969557299ac2a650308d5bff755bb02d8"
+    },
+    {
+      "source": "captures\\live_validation_20261109_final\\first_result\\ir.png",
+      "destination": "data\\fixtures\\catheter_live\\first_result\\ir.png",
+      "sha256": "8fcbf0736bfc2fd92abae4bf03b12435ebd71b2d6282d022968b3a4dad658e7a"
+    },
+    {
+      "source": "captures\\live_validation_20261109_final\\first_result\\result.json",
+      "destination": "data\\fixtures\\catheter_live\\first_result\\result.json",
+      "sha256": "abd6fcbb39b80700285522b762e540fc9a9e0e5125ab4f058839c1de5dad7f04"
+    },
+    {
+      "source": "captures\\live_validation_20261109_final\\session_summary.json",
+      "destination": "data\\fixtures\\catheter_live\\session_summary.json",
+      "sha256": "7bf2c04968a507c1a51ed639ef596a0fff440fa7ff2e07c6725592a2341a9e3b"
+    },
+    {
+      "source": "captures\\live_validation_20261109_final\\updates.jsonl",
+      "destination": "data\\fixtures\\catheter_live\\updates.jsonl",
+      "sha256": "1c747b77ff08229dab7f26d7c2fb7c9cf2970659fa2dbc1714b484dea79bd15f"
+    },
+    {
+      "source": "captures\\live_validation_20261109_endpoints\\metadata.json",
+      "destination": "data\\fixtures\\catheter_tip_loop\\metadata.json",
+      "sha256": "f799ec7234d7c2ba122e39be6aeaf071ce350a63046813d189bc66527189c923"
+    },
+    {
+      "source": "captures\\live_validation_20261109_endpoints\\first_result\\rgb.jpg",
+      "destination": "data\\fixtures\\catheter_tip_loop\\first_result\\rgb.jpg",
+      "sha256": "f55c34c5e4d6a1259bef30dd5c75074207e699225fc86e63bdc3f8aa922a8e51"
+    },
+    {
+      "source": "captures\\live_validation_20261109_endpoints\\first_result\\ir.png",
+      "destination": "data\\fixtures\\catheter_tip_loop\\first_result\\ir.png",
+      "sha256": "2ab603fb0e0e61777183b89bbcf59c8e0f7730c8ebbdb1f809775a1154d952ad"
+    },
+    {
+      "source": "captures\\live_validation_20261109_endpoints\\first_result\\result.json",
+      "destination": "data\\fixtures\\catheter_tip_loop\\first_result\\result.json",
+      "sha256": "099f88030aef06830b2c09fd0f4c261c3cc22dee14ee9b089d32cbfb24a56e6e"
+    },
+    {
+      "source": "captures\\live_validation_20261109_endpoints\\session_summary.json",
+      "destination": "data\\fixtures\\catheter_tip_loop\\session_summary.json",
+      "sha256": "3b09ec09eb41fcfede7acaa33d062d4bba180b2a5c103ab5de1ffae06c815a3a"
+    },
+    {
+      "source": "captures\\live_validation_20261109_endpoints\\updates.jsonl",
+      "destination": "data\\fixtures\\catheter_tip_loop\\updates.jsonl",
+      "sha256": "a882f775d74731d9025d43270d46384437e9e115d5751ef8b72b535a9a5bcf7f"
+    },
+    {
+      "source": "captures\\live_validation_20261109_replug\\metadata.json",
+      "destination": "data\\fixtures\\ir_overexposed\\metadata.json",
+      "sha256": "60d23f97c9aea75a1b6362bac85e3c84ff280f20bda872249bc00dc6c65dfbbb"
+    },
+    {
+      "source": "captures\\live_validation_20261109_replug\\first_valid\\rgb.jpg",
+      "destination": "data\\fixtures\\ir_overexposed\\first_result\\rgb.jpg",
+      "sha256": "853e1ceec589e7810dce3906341df596ea1a5e0dc8e6efb4ca35ab126333d3d0"
+    },
+    {
+      "source": "captures\\live_validation_20261109_replug\\first_valid\\ir.png",
+      "destination": "data\\fixtures\\ir_overexposed\\first_result\\ir.png",
+      "sha256": "5dc251c78dbbb4ea69e88b45325e4453ea8f8bed1b18c11e46662f96b83a2516"
+    },
+    {
+      "source": "captures\\live_validation_20261109_replug\\first_valid\\result.json",
+      "destination": "data\\fixtures\\ir_overexposed\\first_result\\result.json",
+      "sha256": "09860f2c2379f79ded0dcbc9f57a037b394f87e228dee2953b2210fea24ee2d8"
+    },
+    {
+      "source": "captures\\live_validation_20261109_replug\\session_summary.json",
+      "destination": "data\\fixtures\\ir_overexposed\\session_summary.json",
+      "sha256": "8e936531450bcb4b25d7eb2e422ae8cd397c9c2c749290e5f2bb327e88daf538"
+    },
+    {
+      "source": "captures\\live_validation_20261109_replug\\updates.jsonl",
+      "destination": "data\\fixtures\\ir_overexposed\\updates.jsonl",
+      "sha256": "ac2312e167c0b4515de2899af8ac1b9bf4ad26ef4523116078ee7edb8f45fb46"
+    },
+    {
+      "source": "captures\\wire_test_20261110_baseline\\metadata.json",
+      "destination": "data\\fixtures\\black_wire_horizontal\\metadata.json",
+      "sha256": "d476c7a13806bc0fb74621453ae79a25625c32018b25e0b5476e99aa9b852a1d"
+    },
+    {
+      "source": "captures\\wire_test_20261110_baseline\\first_result\\rgb.jpg",
+      "destination": "data\\fixtures\\black_wire_horizontal\\first_result\\rgb.jpg",
+      "sha256": "4742523905fa3af2497d8125ad6c313d175316d51db908c2569937a42c488f0f"
+    },
+    {
+      "source": "captures\\wire_test_20261110_baseline\\first_result\\ir.png",
+      "destination": "data\\fixtures\\black_wire_horizontal\\first_result\\ir.png",
+      "sha256": "e28cb4fea72a787e9a6123f4b497e63b044de6834d98ab119adcb54e401792cc"
+    },
+    {
+      "source": "captures\\wire_test_20261110_baseline\\first_result\\result.json",
+      "destination": "data\\fixtures\\black_wire_horizontal\\first_result\\result.json",
+      "sha256": "86bdf9e6b65c12b2154d452d59b84814d88825ff511dac0801ef6216887e8c57"
+    },
+    {
+      "source": "captures\\wire_test_20261110_baseline\\session_summary.json",
+      "destination": "data\\fixtures\\black_wire_horizontal\\session_summary.json",
+      "sha256": "cf0fc7210bd55118dbc7b8d6d905406e16bbf7ac1655d1e965c1a58cbdc511b5"
+    },
+    {
+      "source": "captures\\wire_test_20261110_baseline\\updates.jsonl",
+      "destination": "data\\fixtures\\black_wire_horizontal\\updates.jsonl",
+      "sha256": "61f35aac68c8cc7811829b5cc088a25e0444223e8000cbae88684eef69c392e0"
+    }
+  ],
+  "backup": {
+    "path": "C:\\Data\\orbbec_gemini2_demo-backup-20261110_101758.zip",
+    "sha256": "0394BC527E43970509D15A3B86EABECB2113158895EA291D893BB08D32B89BAE",
+    "zip_crc_verified": true
+  },
+  "archived_from_workspace": [
+    {
+      "source": "captures",
+      "destination": "C:\\Data\\orbbec_gemini2_demo-retired-20261110\\captures",
+      "files": 4020,
+      "bytes": 906101684.0
+    },
+    {
+      "source": "Log",
+      "destination": "C:\\Data\\orbbec_gemini2_demo-retired-20261110\\Log",
+      "files": 1,
+      "bytes": 18811.0
+    },
+    {
+      "source": "__pycache__",
+      "destination": "C:\\Data\\orbbec_gemini2_demo-retired-20261110\\__pycache__",
+      "files": 6,
+      "bytes": 121743.0
+    },
+    {
+      "source": "gemini2_demo.py",
+      "destination": "C:\\Data\\orbbec_gemini2_demo-retired-20261110\\gemini2_demo.py",
+      "files": 1,
+      "bytes": 6006.0
+    },
+    {
+      "source": "offline_reconstruct.py",
+      "destination": "C:\\Data\\orbbec_gemini2_demo-retired-20261110\\offline_reconstruct.py",
+      "files": 1,
+      "bytes": 20180.0
+    },
+    {
+      "source": "live_reconstruct.py",
+      "destination": "C:\\Data\\orbbec_gemini2_demo-retired-20261110\\live_reconstruct.py",
+      "files": 1,
+      "bytes": 22458.0
+    },
+    {
+      "source": "evaluate_offline_reconstruction.py",
+      "destination": "C:\\Data\\orbbec_gemini2_demo-retired-20261110\\evaluate_offline_reconstruction.py",
+      "files": 1,
+      "bytes": 5370.0
+    },
+    {
+      "source": "probe_black_wire.py",
+      "destination": "C:\\Data\\orbbec_gemini2_demo-retired-20261110\\probe_black_wire.py",
+      "files": 1,
+      "bytes": 6004.0
+    },
+    {
+      "source": "test_offline_reconstruct.py",
+      "destination": "C:\\Data\\orbbec_gemini2_demo-retired-20261110\\test_offline_reconstruct.py",
+      "files": 1,
+      "bytes": 3626.0
+    },
+    {
+      "source": "test_live_reconstruct.py",
+      "destination": "C:\\Data\\orbbec_gemini2_demo-retired-20261110\\test_live_reconstruct.py",
+      "files": 1,
+      "bytes": 2536.0
+    },
+    {
+      "source": "requirements-offline.txt",
+      "destination": "C:\\Data\\orbbec_gemini2_demo-retired-20261110\\requirements-offline.txt",
+      "files": 1,
+      "bytes": 76.0
+    },
+    {
+      "source": "Example/bin/Log/OrbbecSDK.log.txt",
+      "destination": "C:/Data/orbbec_gemini2_demo-retired-20261110/remaining_sdk_log/bin/Log/OrbbecSDK.log.txt",
+      "reason": "Moved after user closed the old HelloOrbbec process"
+    }
+  ],
+  "third_party_migration": {
+    "source": "Example",
+    "destination": "third_party/orbbec_examples",
+    "content": "Vendor sources, docs and binaries; active log archived separately"
+  },
+  "cleanup_policy": "Permanent bulk deletion was blocked by automatic review; old files were reversibly moved outside the workspace instead.",
+  "validation": {
+    "unit_and_integration_tests": 15,
+    "catheter_regression_points": [
+      189,
+      191,
+      197,
+      196,
+      193,
+      198,
+      195
+    ],
+    "wire_candidate_points": [
+      16,
+      22,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "baseline_xyz_absolute_tolerance_mm": 1e-08,
+    "demos_help_checked": [
+      "camera",
+      "live",
+      "offline",
+      "evaluate",
+      "black_wire"
+    ],
+    "camera_enumeration": "Gemini 2 firmware 1.4.92 USB2.0",
+    "new_live_capture_run": false
+  }
+}

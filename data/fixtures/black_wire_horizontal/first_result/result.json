@@ -1,0 +1,15 @@
+{
+  "rgb_timestamp_us": 2629827206,
+  "ir_timestamp_us": 2629904670,
+  "matches": [],
+  "rejections": [],
+  "errors": [
+    "RGB: No sufficiently large rgb component"
+  ],
+  "ir_stop": "component_endpoint",
+  "status": "no_reliable_reconstruction",
+  "compute_s": 0.5629999999946449,
+  "pair_gap_ms": -77.464,
+  "sequence": 1,
+  "actual_hz": 0.0
+}

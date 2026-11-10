@@ -1,0 +1,11 @@
+# Normalize project text consistently across platforms.
+* text=auto eol=lf
+
+# Preserve exact bytes for hashed fixtures and original vendor sources.
+data/fixtures/** -text
+third_party/orbbec_examples/** -text
+
+*.png -text
+*.jpg -text
+*.pdf -text
+*.npz -text

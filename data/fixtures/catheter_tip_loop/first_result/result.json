@@ -1,0 +1,15 @@
+{
+  "rgb_timestamp_us": 595952775,
+  "ir_timestamp_us": 595861928,
+  "matches": [],
+  "rejections": [],
+  "errors": [
+    "IR: Centerline has no unambiguous free endpoints"
+  ],
+  "rgb_stop": "branch_junction",
+  "status": "no_reliable_reconstruction",
+  "compute_s": 0.5,
+  "pair_gap_ms": 90.847,
+  "sequence": 1,
+  "actual_hz": 0.0
+}

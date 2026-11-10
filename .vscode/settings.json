@@ -1,0 +1,15 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
+  "python.analysis.extraPaths": [
+    "./src"
+  ],
+  "python.testing.unittestEnabled": true,
+  "python.testing.unittestArgs": [
+    "-v",
+    "-s",
+    "tests",
+    "-t",
+    "."
+  ],
+  "cmake.sourceDirectory": "${workspaceFolder}/third_party/orbbec_examples"
+}

@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mcrs_3d_reconstruction"
+version = "0.1.0"
+description = "RGB/IR catheter reconstruction and experimental black-guidewire diagnostics"
+requires-python = ">=3.11"
+dependencies = [
+  "numpy==1.26.4",
+  "opencv-python==4.11.0.86",
+  "matplotlib==3.11.2",
+  "networkx==3.6.1",
+  "scikit-image==0.26.0",
+]
+
+[project.optional-dependencies]
+camera = [
+  "pyorbbecsdk @ https://github.com/orbbec/pyorbbecsdk/releases/download/v2.0.15/pyorbbecsdk-2.0.15-cp311-cp311-win_amd64.whl ; sys_platform == 'win32' and python_version == '3.11' and platform_machine == 'AMD64'",
+]
+
+[project.scripts]
+gemini-camera = "guidewire.workflows.camera_demo:main"
+gemini-live = "guidewire.workflows.live:main"
+gemini-offline = "guidewire.workflows.offline:main"
+gemini-evaluate = "guidewire.workflows.evaluate:main"
+gemini-wire-probe = "guidewire.workflows.black_wire:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

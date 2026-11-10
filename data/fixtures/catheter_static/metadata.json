@@ -1,0 +1,264 @@
+{
+  "requested_fps": 5,
+  "requested_duration_s": 30.0,
+  "frames": [
+    {
+      "index": 10,
+      "elapsed_s": 2.1089999999967404,
+      "depth_scale_mm": 1.0,
+      "color_timestamp_us": 111972572,
+      "depth_timestamp_us": 111881575,
+      "ir_timestamp_us": 111681075,
+      "depth_valid_fraction": 0.8319609375,
+      "d2c_scale_mm": 1.0
+    },
+    {
+      "index": 11,
+      "elapsed_s": 2.312000000005355,
+      "depth_scale_mm": 1.0,
+      "color_timestamp_us": 112173062,
+      "depth_timestamp_us": 112082075,
+      "ir_timestamp_us": 111881575,
+      "depth_valid_fraction": 0.8266328125,
+      "d2c_scale_mm": 1.0
+    },
+    {
+      "index": 20,
+      "elapsed_s": 4.10899999999674,
+      "depth_scale_mm": 1.0,
+      "color_timestamp_us": 113977566,
+      "depth_timestamp_us": 113886575,
+      "ir_timestamp_us": 113686075,
+      "depth_valid_fraction": 0.827390625,
+      "d2c_scale_mm": 1.0
+    },
+    {
+      "index": 21,
+      "elapsed_s": 4.312000000005355,
+      "depth_scale_mm": 1.0,
+      "color_timestamp_us": 114178057,
+      "depth_timestamp_us": 114087075,
+      "ir_timestamp_us": 113886575,
+      "depth_valid_fraction": 0.82677734375,
+      "d2c_scale_mm": 1.0
+    },
+    {
+      "index": 50,
+      "elapsed_s": 10.125,
+      "depth_scale_mm": 1.0,
+      "color_timestamp_us": 119992549,
+      "depth_timestamp_us": 119901576,
+      "ir_timestamp_us": 119701076,
+      "depth_valid_fraction": 0.82942578125,
+      "d2c_scale_mm": 1.0
+    },
+    {
+      "index": 51,
+      "elapsed_s": 10.328000000008615,
+      "depth_scale_mm": 1.0,
+      "color_timestamp_us": 120193040,
+      "depth_timestamp_us": 120102076,
+      "ir_timestamp_us": 119901576,
+      "depth_valid_fraction": 0.832375,
+      "d2c_scale_mm": 1.0
+    },
+    {
+      "index": 80,
+      "elapsed_s": 16.14100000000326,
+      "depth_scale_mm": 1.0,
+      "color_timestamp_us": 126007532,
+      "depth_timestamp_us": 125916577,
+      "ir_timestamp_us": 125716077,
+      "depth_valid_fraction": 0.8338125,
+      "d2c_scale_mm": 1.0
+    },
+    {
+      "index": 81,
+      "elapsed_s": 16.343999999997322,
+      "depth_scale_mm": 1.0,
+      "color_timestamp_us": 126208023,
+      "depth_timestamp_us": 126117077,
+      "ir_timestamp_us": 125916577,
+      "depth_valid_fraction": 0.82771484375,
+      "d2c_scale_mm": 1.0
+    },
+    {
+      "index": 100,
+      "elapsed_s": 20.156000000002678,
+      "depth_scale_mm": 1.0,
+      "color_timestamp_us": 130017520,
+      "depth_timestamp_us": 129926577,
+      "ir_timestamp_us": 129726077,
+      "depth_valid_fraction": 0.824953125,
+      "d2c_scale_mm": 1.0
+    },
+    {
+      "index": 101,
+      "elapsed_s": 20.343999999997322,
+      "depth_scale_mm": 1.0,
+      "color_timestamp_us": 130218100,
+      "depth_timestamp_us": 130127077,
+      "ir_timestamp_us": 129926577,
+      "depth_valid_fraction": 0.82144140625,
+      "d2c_scale_mm": 1.0
+    },
+    {
+      "index": 120,
+      "elapsed_s": 24.156000000002678,
+      "depth_scale_mm": 1.0,
+      "color_timestamp_us": 134027598,
+      "depth_timestamp_us": 133936578,
+      "ir_timestamp_us": 133736077,
+      "depth_valid_fraction": 0.83284375,
+      "d2c_scale_mm": 1.0
+    },
+    {
+      "index": 121,
+      "elapsed_s": 24.35899999999674,
+      "depth_scale_mm": 1.0,
+      "color_timestamp_us": 134228088,
+      "depth_timestamp_us": 134137078,
+      "ir_timestamp_us": 133936578,
+      "depth_valid_fraction": 0.8318203125,
+      "d2c_scale_mm": 1.0
+    },
+    {
+      "index": 140,
+      "elapsed_s": 28.172000000005937,
+      "depth_scale_mm": 1.0,
+      "color_timestamp_us": 138037586,
+      "depth_timestamp_us": 137946578,
+      "ir_timestamp_us": 137746078,
+      "depth_valid_fraction": 0.82916015625,
+      "d2c_scale_mm": 1.0
+    },
+    {
+      "index": 141,
+      "elapsed_s": 28.375,
+      "depth_scale_mm": 1.0,
+      "color_timestamp_us": 138238077,
+      "depth_timestamp_us": 138147078,
+      "ir_timestamp_us": 137946578,
+      "depth_valid_fraction": 0.8341484375,
+      "d2c_scale_mm": 1.0
+    }
+  ],
+  "scene": "User reports catheter fixed and smooth background replaced; approximately 2 mm catheter.",
+  "device": {
+    "name": "Orbbec Gemini 2",
+    "firmware": "1.4.92",
+    "connection": "USB2.0",
+    "depth_mode": "Unbinned Dense Default"
+  },
+  "sdk_frame_sync_enabled": false,
+  "calibration": {
+    "depth_intrinsic": {
+      "fx": 611.5125122070312,
+      "fy": 611.5125122070312,
+      "cx": 643.4044799804688,
+      "cy": 402.2964782714844,
+      "width": 1280,
+      "height": 800
+    },
+    "rgb_intrinsic": {
+      "fx": 1034.65771484375,
+      "fy": 1034.359619140625,
+      "cx": 960.2305297851562,
+      "cy": 544.0028686523438,
+      "width": 1920,
+      "height": 1080
+    },
+    "depth_distortion": {
+      "k1": 0.0,
+      "k2": 0.0,
+      "k3": 0.0,
+      "k4": 0.0,
+      "k5": 0.0,
+      "k6": 0.0,
+      "p1": 0.0,
+      "p2": 0.0
+    },
+    "rgb_distortion": {
+      "k1": 55.31143569946289,
+      "k2": -124.05143737792969,
+      "k3": 138.92027282714844,
+      "k4": 55.125213623046875,
+      "k5": -123.67743682861328,
+      "k6": 139.18682861328125,
+      "p1": -0.0003225250111427158,
+      "p2": -0.0003989398537669331
+    },
+    "depth_to_rgb_rotation": [
+      [
+        0.9999970197677612,
+        -0.0019573483150452375,
+        -0.001473505049943924
+      ],
+      [
+        0.001956587890163064,
+        0.9999979734420776,
+        -0.0005172645323909819
+      ],
+      [
+        0.0014745144871994853,
+        0.0005143799353390932,
+        0.9999988079071045
+      ]
+    ],
+    "depth_to_rgb_translation": [
+      -14.065279960632324,
+      0.07697343826293945,
+      -1.931435465812683
+    ],
+    "ir_intrinsic": {
+      "fx": 611.5125122070312,
+      "fy": 611.5125122070312,
+      "cx": 643.4044799804688,
+      "cy": 402.2964782714844,
+      "width": 1280,
+      "height": 800
+    },
+    "ir_to_depth_rotation": [
+      [
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "ir_to_depth_translation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "initial_streaming_properties": {
+    "OB_PROP_LDP_BOOL": true,
+    "OB_PROP_LDP_STATUS_BOOL": true,
+    "OB_PROP_LDP_MEASURE_DISTANCE_INT": 142,
+    "OB_PROP_IR_AUTO_EXPOSURE_BOOL": false,
+    "OB_PROP_IR_EXPOSURE_INT": 3000,
+    "OB_PROP_IR_GAIN_INT": 1000
+  },
+  "fixture_subset": {
+    "original_frame_count": 150,
+    "rgb_regression_indices": [
+      50,
+      10,
+      80,
+      140,
+      20,
+      100,
+      120
+    ]
+  }
+}

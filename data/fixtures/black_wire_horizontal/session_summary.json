@@ -1,0 +1,10 @@
+{
+  "stop_reason": "camera_restore_error",
+  "elapsed_s": 16.03200000000652,
+  "updates": 14,
+  "updates_with_3d": 0,
+  "camera_frames_received": 134,
+  "error": "IR exposure restore failed: Exposure readback differs from original",
+  "observed_update_hz": 1.001232285890578,
+  "median_compute_s": 0.45300000000861473
+}

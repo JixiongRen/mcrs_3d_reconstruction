@@ -1,0 +1,10 @@
+{
+  "stop_reason": "duration_completed",
+  "elapsed_s": 10.85999999998603,
+  "updates": 9,
+  "updates_with_3d": 2,
+  "camera_frames_received": 94,
+  "error": null,
+  "observed_update_hz": 0.9941593140311377,
+  "median_compute_s": 0.48399999999674037
+}

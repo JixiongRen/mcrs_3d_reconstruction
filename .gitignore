@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+Log/
+outputs/*
+!outputs/.gitkeep
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+third_party/orbbec_examples/bin/
